@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "charged=false": { "model": "decay:block/copy_block" },
+    "charged=true": { "model": "decay:block/copy_block" }
+  }
+}
